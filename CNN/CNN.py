@@ -17,7 +17,6 @@ import time
 #-----------------------------------------------------------------------------
 #Prepare the data 
 #-----------------------------------------------------------------------------
-# dt = 1.0
 dt = 0.2
 
 #Read the data and use only the top floor acceleration for the prediction 
